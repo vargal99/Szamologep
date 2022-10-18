@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Szamologep</string>
+
+    <!--Első activity összeadás-->
+    <string name="elso_szam_txt">Első szam:</string>
+    <string name="masodik_szam_txt">Második szam:</string>
+    <string name="kiszamol_btn">Kiszámol:</string>
+    <string name="Szamologep_title">Szamológép:</string>
+    <!--Első activity összeadás-->
+
+</resources>
